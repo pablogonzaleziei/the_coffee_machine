@@ -6,7 +6,7 @@ ingredients = {
     "milk": 200,
     "cups": 5
 }
-
+ 
 coffee_types = {
     "espresso": {"water": 50, "coffee_beans": 20, "milk": 0, "cost": 2.5},
     "latte": {"water": 100, "coffee_beans": 20, "milk": 50, "cost": 3.0},
